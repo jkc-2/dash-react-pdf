@@ -1,0 +1,13 @@
+Package: dashReactPdf
+Title: Dast wrapper for React-pdf library
+Version: 0.0.1
+Description: Dast wrapper for React-pdf library
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/jkc-2/dash-react-pdf
+BugReports: https://github.com/jkc-2/dash-react-pdf/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true

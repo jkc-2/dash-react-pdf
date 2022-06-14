@@ -1,0 +1,27 @@
+.dashReactPdf_js_metadata <- function() {
+deps_metadata <- list(`dash_react_pdf` = structure(list(name = "dash_react_pdf",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-DashReactPdf.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "dashReactPdf",
+all_files = FALSE, async = TRUE), class = "html_dependency"),
+`dash_react_pdf` = structure(list(name = "dash_react_pdf",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-DashReactPdf.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "dashReactPdf",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"),
+`dash_react_pdf` = structure(list(name = "dash_react_pdf",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'dash_react_pdf.min.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "dashReactPdf",
+all_files = FALSE), class = "html_dependency"),
+`dash_react_pdf` = structure(list(name = "dash_react_pdf",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'dash_react_pdf.min.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "dashReactPdf",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"))
+return(deps_metadata)
+}
